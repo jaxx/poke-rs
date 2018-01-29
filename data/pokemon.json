@@ -101,5 +101,257 @@
         "types": [
             "Water"
         ]
+    },
+    {
+        "id": 10,
+        "dex_num": "010",
+        "name": "Caterpie",
+        "attack": 55,
+        "defense": 62,
+        "hp": 90,
+        "types": [
+            "Bug"
+        ]
+    },
+    {
+        "id": 11,
+        "dex_num": "011",
+        "name": "Metapod",
+        "attack": 45,
+        "defense": 94,
+        "hp": 100,
+        "types": [
+            "Bug"
+        ]
+    },
+    {
+        "id": 12,
+        "dex_num": "012",
+        "name": "Butterfree",
+        "attack": 167,
+        "defense": 151,
+        "hp": 120,
+        "types": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "id": 13,
+        "dex_num": "013",
+        "name": "Weedle",
+        "attack": 63,
+        "defense": 55,
+        "hp": 80,
+        "types": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "id": 14,
+        "dex_num": "014",
+        "name": "Kakuna",
+        "attack": 46,
+        "defense": 86,
+        "hp": 90,
+        "types": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "id": 15,
+        "dex_num": "015",
+        "name": "Beedrill",
+        "attack": 169,
+        "defense": 150,
+        "hp": 130,
+        "types": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "id": 16,
+        "dex_num": "016",
+        "name": "Pidgey",
+        "attack": 85,
+        "defense": 76,
+        "hp": 80,
+        "types": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "id": 17,
+        "dex_num": "017",
+        "name": "Pidgeotto",
+        "attack": 117,
+        "defense": 108,
+        "hp": 126,
+        "types": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "id": 18,
+        "dex_num": "018",
+        "name": "Pidgeot",
+        "attack": 166,
+        "defense": 157,
+        "hp": 166,
+        "types": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "id": 19,
+        "dex_num": "019",
+        "name": "Rattata",
+        "attack": 103,
+        "defense": 70,
+        "hp": 60,
+        "types": [
+            "Normal"
+        ]
+    },
+    {
+        "id": 20,
+        "dex_num": "020",
+        "name": "Raticate",
+        "attack": 161,
+        "defense": 144,
+        "hp": 110,
+        "types": [
+            "Normal"
+        ]
+    },
+    {
+        "id": 21,
+        "dex_num": "021",
+        "name": "Spearow",
+        "attack": 112,
+        "defense": 61,
+        "hp": 80,
+        "types": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "id": 22,
+        "dex_num": "022",
+        "name": "Fearow",
+        "attack": 182,
+        "defense": 135,
+        "hp": 130,
+        "types": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "id": 23,
+        "dex_num": "023",
+        "name": "Ekans",
+        "attack": 110,
+        "defense": 102,
+        "hp": 70,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 24,
+        "dex_num": "024",
+        "name": "Arbok",
+        "attack": 167,
+        "defense": 158,
+        "hp": 120,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 25,
+        "dex_num": "025",
+        "name": "Pikachu",
+        "attack": 112,
+        "defense": 101,
+        "hp": 70,
+        "types": [
+            "Electric"
+        ]
+    },
+    {
+        "id": 26,
+        "dex_num": "026",
+        "name": "Raichu",
+        "attack": 193,
+        "defense": 165,
+        "hp": 120,
+        "types": [
+            "Electric"
+        ]
+    },
+    {
+        "id": 27,
+        "dex_num": "027",
+        "name": "Sandshrew",
+        "attack": 126,
+        "defense": 145,
+        "hp": 100,
+        "types": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 28,
+        "dex_num": "028",
+        "name": "Sandslash",
+        "attack": 182,
+        "defense": 202,
+        "hp": 150,
+        "types": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 29,
+        "dex_num": "029",
+        "name": "Nidoran♀",
+        "attack": 86,
+        "defense": 94,
+        "hp": 110,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 30,
+        "dex_num": "030",
+        "name": "Nidorina",
+        "attack": 117,
+        "defense": 126,
+        "hp": 140,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 31,
+        "dex_num": "031",
+        "name": "Nidoqueen",
+        "attack": 180,
+        "defense": 174,
+        "hp": 180,
+        "types": [
+            "Poison",
+            "Ground"
+        ]
     }
 ]

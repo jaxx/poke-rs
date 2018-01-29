@@ -14,9 +14,13 @@ pub struct Pokemon {
 
 #[derive(Deserialize, Debug)]
 enum Type {
+    Bug,
+    Electric,
     Fire,
     Flying,
     Grass,
+    Ground,
+    Normal,
     Poison,
     Water
 }
