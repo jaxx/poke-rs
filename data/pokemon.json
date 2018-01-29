@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "dex_num": "001",
+        "name": "Bulbasaur",
+        "attack": 118,
+        "defense": 118,
+        "hp": 90,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 2,
+        "dex_num": "002",
+        "name": "Ivysaur",
+        "attack": 151,
+        "defense": 151,
+        "hp": 120,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 3,
+        "dex_num": "003",
+        "name": "Venusaur",
+        "attack": 198,
+        "defense": 198,
+        "hp": 160,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 4,
+        "dex_num": "004",
+        "name": "Charmander",
+        "attack": 116,
+        "defense": 96,
+        "hp": 78,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 5,
+        "dex_num": "005",
+        "name": "Charmeleon",
+        "attack": 158,
+        "defense": 129,
+        "hp": 116,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 6,
+        "dex_num": "006",
+        "name": "Charizard",
+        "attack": 223,
+        "defense": 176,
+        "hp": 156,
+        "types": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "id": 7,
+        "dex_num": "007",
+        "name": "Squirtle",
+        "attack": 94,
+        "defense": 122,
+        "hp": 88,
+        "types": [
+            "Water"
+        ]
+    },
+    {
+        "id": 8,
+        "dex_num": "008",
+        "name": "Wartortle",
+        "attack": 126,
+        "defense": 155,
+        "hp": 118,
+        "types": [
+            "Water"
+        ]
+    },
+    {
+        "id": 9,
+        "dex_num": "009",
+        "name": "Blastoise",
+        "attack": 171,
+        "defense": 210,
+        "hp": 158,
+        "types": [
+            "Water"
+        ]
+    }
+]
