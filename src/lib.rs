@@ -16,6 +16,8 @@ pub struct Pokemon {
 enum Type {
     Bug,
     Electric,
+    Fairy,
+    Fighting,
     Fire,
     Flying,
     Grass,

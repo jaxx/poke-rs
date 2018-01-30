@@ -353,5 +353,336 @@
             "Poison",
             "Ground"
         ]
+    },
+    {
+        "id": 32,
+        "dex_num": "032",
+        "name": "Nidoran♂",
+        "attack": 105,
+        "defense": 76,
+        "hp": 92,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 33,
+        "dex_num": "033",
+        "name": "Nidorino",
+        "attack": 137,
+        "defense": 112,
+        "hp": 122,
+        "types": [
+            "Poison"
+        ]
+    },
+    {
+        "id": 34,
+        "dex_num": "034",
+        "name": "Nidoking",
+        "attack": 204,
+        "defense": 157,
+        "hp": 162,
+        "types": [
+            "Poison",
+            "Ground"
+        ]
+    },
+    {
+        "id": 35,
+        "dex_num": "035",
+        "name": "Clefairy",
+        "attack": 107,
+        "defense": 116,
+        "hp": 140,
+        "types": [
+            "Fairy"
+        ]
+    },
+    {
+        "id": 36,
+        "dex_num": "036",
+        "name": "Clefable",
+        "attack": 178,
+        "defense": 171,
+        "hp": 190,
+        "types": [
+            "Fairy"
+        ]
+    },
+    {
+        "id": 37,
+        "dex_num": "037",
+        "name": "Vulpix",
+        "attack": 96,
+        "defense": 122,
+        "hp": 76,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 38,
+        "dex_num": "038",
+        "name": "Ninetales",
+        "attack": 169,
+        "defense": 204,
+        "hp": 146,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 39,
+        "dex_num": "039",
+        "name": "Jigglypuff",
+        "attack": 80,
+        "defense": 44,
+        "hp": 230,
+        "types": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 40,
+        "dex_num": "040",
+        "name": "Wigglytuff",
+        "attack": 156,
+        "defense": 93,
+        "hp": 280,
+        "types": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 41,
+        "dex_num": "041",
+        "name": "Zubat",
+        "attack": 83,
+        "defense": 76,
+        "hp": 80,
+        "types": [
+            "Poison",
+            "Flying"
+        ]
+    },
+    {
+        "id": 42,
+        "dex_num": "042",
+        "name": "Golbat",
+        "attack": 161,
+        "defense": 153,
+        "hp": 150,
+        "types": [
+            "Poison",
+            "Flying"
+        ]
+    },
+    {
+        "id": 43,
+        "dex_num": "043",
+        "name": "Oddish",
+        "attack": 131,
+        "defense": 116,
+        "hp": 90,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 44,
+        "dex_num": "044",
+        "name": "Gloom",
+        "attack": 153,
+        "defense": 139,
+        "hp": 120,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 45,
+        "dex_num": "045",
+        "name": "Vileplume",
+        "attack": 202,
+        "defense": 170,
+        "hp": 150,
+        "types": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "id": 46,
+        "dex_num": "046",
+        "name": "Paras",
+        "attack": 121,
+        "defense": 99,
+        "hp": 70,
+        "types": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "id": 47,
+        "dex_num": "047",
+        "name": "Parasect",
+        "attack": 165,
+        "defense": 146,
+        "hp": 120,
+        "types": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "id": 48,
+        "dex_num": "048",
+        "name": "Venonat",
+        "attack": 100,
+        "defense": 102,
+        "hp": 120,
+        "types": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "id": 49,
+        "dex_num": "049",
+        "name": "Venomoth",
+        "attack": 179,
+        "defense": 150,
+        "hp": 140,
+        "types": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "id": 50,
+        "dex_num": "050",
+        "name": "Diglett",
+        "attack": 109,
+        "defense": 88,
+        "hp": 20,
+        "types": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 51,
+        "dex_num": "051",
+        "name": "Dugtrio",
+        "attack": 167,
+        "defense": 147,
+        "hp": 70,
+        "types": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 52,
+        "dex_num": "052",
+        "name": "Meowth",
+        "attack": 92,
+        "defense": 81,
+        "hp": 80,
+        "types": [
+            "Normal"
+        ]
+    },
+    {
+        "id": 53,
+        "dex_num": "053",
+        "name": "Persian",
+        "attack": 150,
+        "defense": 139,
+        "hp": 130,
+        "types": [
+            "Normal"
+        ]
+    },
+    {
+        "id": 54,
+        "dex_num": "054",
+        "name": "Psyduck",
+        "attack": 122,
+        "defense": 96,
+        "hp": 100,
+        "types": [
+            "Water"
+        ]
+    },
+    {
+        "id": 55,
+        "dex_num": "055",
+        "name": "Golduck",
+        "attack": 191,
+        "defense": 163,
+        "hp": 160,
+        "types": [
+            "Water"
+        ]
+    },
+    {
+        "id": 56,
+        "dex_num": "056",
+        "name": "Mankey",
+        "attack": 148,
+        "defense": 87,
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 57,
+        "dex_num": "057",
+        "name": "Primeape",
+        "attack": 207,
+        "defense": 144,
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 58,
+        "dex_num": "058",
+        "name": "Growlithe",
+        "attack": 136,
+        "defense": 96,
+        "hp": 110,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 59,
+        "dex_num": "059",
+        "name": "Arcanine",
+        "attack": 227,
+        "defense": 166,
+        "hp": 180,
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 60,
+        "dex_num": "060",
+        "name": "Poliwag",
+        "attack": 101,
+        "defense": 82,
+        "hp": 80,
+        "types": [
+            "Water"
+        ]
     }
 ]
